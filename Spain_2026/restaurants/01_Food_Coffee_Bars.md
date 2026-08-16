@@ -14,8 +14,8 @@ status: in-progress
 | 店家 | 類型 | 優先度 | 建議安排 |
 |---|---|---:|---|
 | Paradiso | Cocktail bar | ★★★★★ | 10/11 El Born 晚上 |
-| Nomad Coffee Bar (ex Coffee Lab) | Specialty coffee | ★★★★★ | 平日順路安排，不放 10/11 週日 |
-| D·Origen Coffee Roasters | Specialty coffee | ★★★★☆ | Eixample 行程順路安排 |
+| Nomad Coffee Bar (ex Coffee Lab) | Specialty coffee | ★★★★★ | **10/16 回程日上午** |
+| D·Origen Coffee Roasters | Specialty coffee | ★★★☆☆ | Optional；其他日期 Eixample 順路才去 |
 | Vinitus | Tapas | ★★★★★ | 10/14 Casa Batlló 後晚餐候選 |
 | Cerveceria Catalana | Tapas | ★★★★★ | 10/14 Casa Batlló 後晚餐候選 |
 | Raspall | Bar / local hangout | ★★★☆☆ | 10/14 Gràcia Plan B |
@@ -36,7 +36,7 @@ status: in-progress
 
 ### Nomad Coffee Bar
 
-不排 10/11。週日營業狀況不適合作為核心行程，改放平日順路時段。
+不排 10/11。改到 **10/16（星期五）回程日上午**，作為 Barcelona 最後一間特別保留的咖啡店。
 
 ## 10/14 — Gràcia＋Eixample
 
@@ -58,26 +58,27 @@ Casa Batlló 結束後二選一。
 - 一個人不追求大量點餐。
 - 以 tapas、海鮮、小份料理為主。
 
-## Nomad Coffee Bar
+## 10/16 — Nomad Coffee Bar
 
-高優先度咖啡店，但因目前 10/10～10/12 是週末＋Blanes，因此暫不寫死日期。
+回程航班為 16:15 BCN → DXB，因此上午只保留一間咖啡店，選 Nomad。
 
-優先插入的平日時段：
+安排原則：
 
-1. 10/13：若聖家堂與 Sant Pau 中間／之後動線合理。
-2. 10/15：若 Montjuïc／Barceloneta 行程調整且願意回 El Born。
-
-實際出發前再依最新營業時間與路線決定。
+- 約 09:30 前後到店。
+- 約 10:30 離開並返回飯店。
+- 不因排隊或拍照延誤回飯店拿行李與前往機場的時間。
+- 若當日臨時休店／排隊過久，直接取消，不另外跨區追第二家。
 
 ## D·Origen Coffee Roasters
 
-Eixample 順路咖啡候選，與 Casa Calvet 建築可以一起看。
+降為 Optional。
 
 原則：
 
 - 不特地跨區只為喝咖啡。
-- 如果 Eixample 行程經過就停。
+- 其他日期如果 Eixample 行程剛好經過，再停下來喝。
 - 可作為天氣不好或需要休息時的室內備案。
+- **不排入 10/16 回程日上午。**
 
 ## 使用方式
 
@@ -101,4 +102,4 @@ Eixample 順路咖啡候選，與 Casa Calvet 建築可以一起看。
 - [ ] 國定假日／週日營業狀況
 - [ ] 是否需預約或採現場排隊
 - [ ] Paradiso 最新 virtual queue 規則
-- [ ] Nomad Coffee Bar 最新週末營業資訊
+- [ ] Nomad Coffee Bar 10/16 最新營業時間
