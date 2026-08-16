@@ -1,59 +1,67 @@
 ---
 title: 巴塞隆納交通票券
 trip: Spain_2026
-last_update: 2026-08-02
-status: draft
+last_update: 2026-08-16
+status: confirmed
 ---
 
 # 巴塞隆納交通票券
 
-## 目前建議組合
+## 已確認方案：T-usual Zone 1
 
-### Barcelona 市區
+Barcelona 市區交通確定使用 **T-usual Zone 1**。
 
-優先比較以下票種：
+適用本次主要市區行程，包括：
 
-- `T-usual`：適合多天、頻繁搭乘市區交通。
-- `T-casual`：適合以步行為主、搭乘次數較少。
-- `Hola Barcelona Travel Card`：適合在固定 2～5 天內密集使用地鐵與公車的旅客。
+- SM Hotel Sant Antoni／Monumental
+- Sagrada Família
+- Sant Pau
+- Gothic Quarter
+- El Born
+- Gràcia
+- Passeig de Gràcia／Casa Batlló
+- Montjuïc
+- Barceloneta
 
-你的住宿位置接近 Monumental，且旅程為 2026-10-09 至 2026-10-16，因此最終應比較：
+2026 年目前官方票價為 **€22.80**。T-usual 為記名、不可轉讓的 30 日不限次數整合交通票，使用時需攜帶與登記資料相符的有效身分證件。
 
-1. 市區預估總搭乘次數。
-2. 是否使用機場地鐵。
-3. 票券是否需要實名或證件號碼。
-4. 2026 年 10 月當時的官方價格與使用範圍。
+### 機場 Metro
 
-## Blanes 不可直接視為 Barcelona Zone 1
+T-usual 可用於 L9 Sud 的 Aeroport T1 / T2 地鐵站，因此若抵達日或回程日決定搭機場 Metro，可直接使用；實際是否採用仍以當天行李、體力與交通狀況決定。
 
-前往 Blanes 的 R1 區域火車需另外確認適用票價與區域；不要假設 Barcelona 市區的一區票券可涵蓋完整旅程。
+## Blanes 另外購票
 
-建議在出發前或搭乘當天：
+**10/12 前往 Blanes 不包含在 Barcelona Zone 1 範圍內。**
 
-- 於 Rodalies 售票機選擇目的地 `Blanes`。
-- 依現場票價購買單程或往返票。
-- 確認回程末班車與施工資訊。
+策略：
 
-## 暫定購票策略
+- Barcelona 市區：T-usual Zone 1
+- Barcelona ↔ Blanes：另外購買 Rodalies 車票
+- 搭車前確認 R1 當日施工、班次與票價
 
-| 用途 | 暫定方案 |
+不需要為了只有一天的 Blanes 行程，把整張 T-usual 升級成多區票。
+
+## 本次購票策略
+
+| 用途 | 方案 |
 |---|---|
-| BCN 機場到飯店 | 計程車或 Aerobús，視抵達狀態決定 |
-| Barcelona 市區 | T-usual 與 T-casual 二選一，出發前依官方價格決定 |
-| Blanes | 另購 Rodalies 車票 |
-| Tossa de Mar（若加入） | 另購城際巴士票 |
+| BCN 機場 → 飯店 | 視抵達狀況選官方計程車／Aerobús／大眾運輸 |
+| Barcelona 市區 | **T-usual Zone 1** |
+| Blanes | **另購 Rodalies 往返／單程票** |
+| BCN 回程 | 視行李與交通狀況選計程車或大眾運輸 |
 
-## 現場購買原則
+## 購買與使用注意
 
-- 使用官方售票機或官方 App。
+- T-usual 為記名票，不可多人共用。
+- 購買時依官方系統要求輸入有效證件資料。
+- 旅行期間攜帶與票券登記資料相符的護照／有效證件。
+- 優先使用官方售票機、TMB／T-mobilitat 官方管道。
 - 不向陌生人購買或交換票券。
-- 票券若為實名制，姓名或證件資料必須正確。
-- 刷卡完成後保留票券與付款紀錄。
 
-## 出發前檢查清單
+## 出發前再次確認
 
-- [ ] 核對 TMB 官方 2026 年票價
-- [ ] 核對 T-usual 是否仍包含機場地鐵
-- [ ] 核對 T-casual 的機場限制
-- [ ] 核對 Blanes 所屬票價區與往返價格
-- [ ] 安裝 TMB App 與 Rodalies App
+- [ ] T-usual Zone 1 最新官方價格
+- [ ] T-usual 最新身分驗證／購票方式
+- [ ] L9 Sud 機場站使用規則是否有變動
+- [ ] 10/12 Blanes Rodalies 票價與國定假日班次
+- [ ] 安裝／更新 TMB、T-mobilitat、Rodalies 相關 App
