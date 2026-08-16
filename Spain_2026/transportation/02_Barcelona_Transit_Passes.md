@@ -29,17 +29,32 @@ Barcelona 市區交通確定使用 **T-usual Zone 1**。
 
 T-usual 可用於 L9 Sud 的 Aeroport T1 / T2 地鐵站，因此若抵達日或回程日決定搭機場 Metro，可直接使用；實際是否採用仍以當天行李、體力與交通狀況決定。
 
-## Blanes 另外購票
+## 10/12 Blanes：T-usual 仍會使用
 
-**10/12 前往 Blanes 不包含在 Barcelona Zone 1 範圍內。**
+**Blanes 本身不在 Barcelona Zone 1 範圍內，但 10/12 並不是整天都用不到 T-usual。**
 
-策略：
+去程拆成兩段：
 
-- Barcelona 市區：T-usual Zone 1
-- Barcelona ↔ Blanes：另外購買 Rodalies 車票
-- 搭車前確認 R1 當日施工、班次與票價
+1. **SM Hotel Sant Antoni → Monumental → L2 → Passeig de Gràcia**
+   - Barcelona Zone 1 市內段。
+   - 使用 **T-usual Zone 1**。
+2. **Passeig de Gràcia → Blanes（Rodalies R1）**
+   - Blanes 超出 Zone 1。
+   - 這段另外購買適用的 Rodalies 車票。
 
-不需要為了只有一天的 Blanes 行程，把整張 T-usual 升級成多區票。
+回程同理：
+
+- Blanes → Barcelona：使用另購的 Rodalies 車票。
+- 回到 Barcelona 市內後，再以 T-usual Zone 1 前往 Monumental／飯店。
+
+因此不需要為了只有一天的 Blanes 行程，把整張 T-usual 升級成更多 Zone。
+
+### Blanes 車票購買原則
+
+- 在 Rodalies 售票機／官方管道選擇目的地 `Blanes`。
+- 依當日規則購買單程或往返票。
+- 搭車前確認 R1 施工、班次與國定假日營運。
+- 看月台電子看板確認列車確實停靠 `Blanes`，不要只看終點站名稱。
 
 ## 本次購票策略
 
@@ -47,7 +62,9 @@ T-usual 可用於 L9 Sud 的 Aeroport T1 / T2 地鐵站，因此若抵達日或�
 |---|---|
 | BCN 機場 → 飯店 | 視抵達狀況選官方計程車／Aerobús／大眾運輸 |
 | Barcelona 市區 | **T-usual Zone 1** |
-| Blanes | **另購 Rodalies 往返／單程票** |
+| 10/12 飯店 → Passeig de Gràcia | **T-usual Zone 1** |
+| 10/12 Passeig de Gràcia ↔ Blanes | **另購 Rodalies 車票** |
+| 回到 Barcelona 後的市內接駁 | **T-usual Zone 1** |
 | BCN 回程 | 視行李與交通狀況選計程車或大眾運輸 |
 
 ## 購買與使用注意
@@ -64,4 +81,5 @@ T-usual 可用於 L9 Sud 的 Aeroport T1 / T2 地鐵站，因此若抵達日或�
 - [ ] T-usual 最新身分驗證／購票方式
 - [ ] L9 Sud 機場站使用規則是否有變動
 - [ ] 10/12 Blanes Rodalies 票價與國定假日班次
+- [ ] 10/12 R1 是否施工／改點
 - [ ] 安裝／更新 TMB、T-mobilitat、Rodalies 相關 App
