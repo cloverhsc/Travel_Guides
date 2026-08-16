@@ -21,12 +21,12 @@ status: in-progress
 
 - [x] 阿聯酋航空來回機票
 - [x] SM Hotel Sant Antoni
+- [x] 10/12 Blanes＋Jardí Botànic Marimurtra 一日遊
 - [x] 聖家堂：2026-10-13 09:00 入場
 - [x] Nativity Tower：2026-10-13 15:30
 - [x] 10/13 加入 Recinte Modernista de Sant Pau
 - [x] 10/14 Gràcia 生活街拍，取消 Park Güell
 - [x] Casa Batlló：2026-10-14 15:30，General Visit – Gold
-- [x] 規劃 Blanes／Jardí Botànic Marimurtra 一日遊
 - [x] 10/15 安排 Montjuïc、Barceloneta 與伴手禮採買
 
 ## 文件索引
@@ -38,6 +38,7 @@ status: in-progress
 
 ### 每日行程
 
+- [10/12 Blanes＋Marimurtra](itinerary/2026-10-12_Blanes_Marimurtra.md)
 - [10/13 聖家堂＋Sant Pau](itinerary/2026-10-13_Sagrada_Familia_Sant_Pau.md)
 - [10/14 Gràcia 生活街拍＋Casa Batlló](itinerary/2026-10-14_Gracia_Casa_Batllo.md)
 - [10/15 Montjuïc＋Barceloneta＋伴手禮](itinerary/2026-10-15_Montjuic_Barceloneta_Shopping.md)
@@ -58,7 +59,7 @@ status: in-progress
 
 ## 待建立／補完
 
-- 10/09～10/12 其他日期每日行程
+- 10/09～10/11 每日行程
 - 餐廳與咖啡店
 - 攝影機位
 - 購物與退稅詳細攻略
