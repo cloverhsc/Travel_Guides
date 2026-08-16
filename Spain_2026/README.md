@@ -32,6 +32,8 @@ status: in-progress
 - [x] 10/14 Gràcia 生活街拍，取消 Park Güell
 - [x] Casa Batlló：2026-10-14 15:30，General Visit – Gold
 - [x] 10/15 安排 Montjuïc、Barceloneta 與伴手禮採買
+- [x] 10/16 回程航班：16:15 BCN → DXB
+- [x] 10/16 上午安排 Nomad Coffee Bar；D·Origen 降為 Optional
 
 ## 每日行程總覽
 
@@ -44,7 +46,7 @@ status: in-progress
 | 10/13 二 | Sagrada Família＋Sant Pau＋Nativity Tower | 已確認門票 |
 | 10/14 三 | Gràcia 生活街拍＋Casa Batlló Gold | 已確認門票 |
 | 10/15 四 | Montjuïc＋Barceloneta＋伴手禮 | 已規劃 |
-| 10/16 五 | 回程 | 待補完整動線 |
+| 10/16 五 | Nomad Coffee＋回飯店取行李＋BCN 16:15 回程 | 已規劃 |
 
 ## 文件索引
 
@@ -62,6 +64,7 @@ status: in-progress
 - [10/13 聖家堂＋Sant Pau](itinerary/2026-10-13_Sagrada_Familia_Sant_Pau.md)
 - [10/14 Gràcia 生活街拍＋Casa Batlló](itinerary/2026-10-14_Gracia_Casa_Batllo.md)
 - [10/15 Montjuïc＋Barceloneta＋伴手禮](itinerary/2026-10-15_Montjuic_Barceloneta_Shopping.md)
+- [10/16 Nomad Coffee＋回程](itinerary/2026-10-16_Nomad_and_Departure.md)
 
 ### 交通
 
@@ -85,10 +88,8 @@ status: in-progress
 
 ## 待建立／補完
 
-- 10/16 飯店 → BCN 回程完整動線
 - 各日更細的大眾運輸／Google Maps 導航
-- Nomad Coffee Bar 最終安排日期
-- D·Origen Coffee Roasters 最終安排日期
+- D·Origen Coffee Roasters 若順路再插入
 - 攝影機位詳細攻略
 - 購物與退稅詳細攻略
 - 緊急聯絡與安全資訊
