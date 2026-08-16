@@ -1,7 +1,7 @@
 ---
 title: Spain 2026 Travel Guide
 trip: Spain_2026
-last_update: 2026-08-02
+last_update: 2026-08-16
 status: in-progress
 ---
 
@@ -21,8 +21,11 @@ status: in-progress
 
 - [x] 阿聯酋航空來回機票
 - [x] SM Hotel Sant Antoni
-- [x] 聖家堂預計安排於 2026-10-12
+- [x] 聖家堂：2026-10-13 09:00 入場
+- [x] Nativity Tower：2026-10-13 15:30
+- [x] 10/13 加入 Recinte Modernista de Sant Pau
 - [x] 規劃 Blanes／Jardí Botànic Marimurtra 一日遊
+- [x] 10/15 安排 Montjuïc、Barceloneta 與伴手禮採買
 
 ## 文件索引
 
@@ -30,6 +33,11 @@ status: in-progress
 
 - [旅程資訊](00_旅程資訊.md)
 - [更新紀錄](CHANGELOG.md)
+
+### 每日行程
+
+- [10/13 聖家堂＋Sant Pau](itinerary/2026-10-13_Sagrada_Familia_Sant_Pau.md)
+- [10/15 Montjuïc＋Barceloneta＋伴手禮](itinerary/2026-10-15_Montjuic_Barceloneta_Shopping.md)
 
 ### 交通
 
@@ -41,12 +49,17 @@ status: in-progress
 
 - [聖家堂門票與參觀規劃](tickets/01_Sagrada_Familia.md)
 
-## 待建立
+### 購物與伴手禮
 
-- 每日行程
+- [巴塞隆納伴手禮與零食](shopping/01_Souvenirs_and_Snacks.md)
+
+## 待建立／補完
+
+- 10/14 Park Güell＋Gràcia＋Passeig de Gràcia 每日行程
+- 其他日期每日行程
 - 餐廳與咖啡店
 - 攝影機位
-- 購物與退稅
+- 購物與退稅詳細攻略
 - 緊急聯絡與安全資訊
 
 > 交通時刻、票價、景點開放時間與門票規則可能變動，出發前需再次核對官方資訊。
