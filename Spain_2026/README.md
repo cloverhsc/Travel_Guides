@@ -14,6 +14,7 @@ status: in-progress
 - 旅行日期：2026-10-08 ～ 2026-10-16
 - 主要城市：Barcelona
 - 旅行方式：獨自旅行、不自駕、以大眾運輸與步行為主
+- 市區交通：**T-usual Zone 1**
 - 住宿：SM Hotel Sant Antoni
 - 偏好：攝影、美食、自然景觀、生活街拍、行程不過度緊湊
 
@@ -21,6 +22,7 @@ status: in-progress
 
 - [x] 阿聯酋航空來回機票
 - [x] SM Hotel Sant Antoni
+- [x] Barcelona 市區交通使用 T-usual Zone 1；Blanes 另購 Rodalies 車票
 - [x] 10/09 抵達 Barcelona，飯店周邊適應日
 - [x] 10/10 Gothic Quarter 舊城街拍
 - [x] 10/11 El Born＋Santa Maria del Mar＋Ciutadella＋Paradiso
